@@ -2,7 +2,7 @@
 
 ### Desenvolvedora Full Stack em formação • Apaixonada por tecnologia e design 
 
-Graduanda em Ciência da Computação na Universidade Federal do Espírito Santo **(UFES)**, encontrei na área uma forma de unir meus dois maiores interesses: inovação e criatividade.
+Graduanda em Ciência da Computação na Universidade Federal do Espírito Santo **(UFES)**, encontrei na área uma forma de unir meus dois maiores interesses: **inovação e criatividade**.
 Gosto de explorar novas tecnologias e tendências de design para criar soluções eficientes e garantir experiências digitais intuitivas. 
 
 ---
